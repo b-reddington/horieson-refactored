@@ -23,6 +23,9 @@ MIT License
 
 Posses semantic code for Headers, Nav, Main Sections, aside's, and footers.
 
+![screenshot of the deployed application](assets/images/screenshot-1.png)
+![screenshot of the deployed application](assets/images/screenshot-2.png)
+
 ## How to Contribute
 
 N/A
