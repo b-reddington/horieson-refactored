@@ -28,4 +28,4 @@ Posses semantic code for Headers, Nav, Main Sections, aside's, and footers.
 N/A
 
 ## Deployed
-You can visit the deployed application at 
+You can visit the deployed application at <https://b-reddington.github.io/horieson-refactored/>
